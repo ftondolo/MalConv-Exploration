@@ -1,6 +1,7 @@
 # MalConv-Exploration
 A Study on Computational Performance of Malware Detection Using Convolutional Neural Networks
 Final Project for COMSE 6998 - Hiph Performance machine Learning | Spring Semester 2023
+
 Federico Tondolo - Pedro Leandro La Rotta
 
 ## Description
