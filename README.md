@@ -15,3 +15,5 @@ To Execute our code there is not much you need to know thanks to the use of our 
 ## Results and Observations
 While a more comprehensive view of our results is available in the writeup, here is a brief overview of how to interpret our data:
 
+<img width="586" alt="image" src="https://github.com/ftondolo/MalConv-Exploration/assets/20714356/ec6c4b5d-5b91-4e15-b1da-af8d687eb0e4">
+Distribution of inference times for samples run against the three versions of the MalConv model. There is a marginal improvement in mean inference time with weight quantization.
